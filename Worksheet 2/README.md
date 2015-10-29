@@ -1,6 +1,6 @@
 #1: Fading to Black
 ###Flowchart
-![Flowchart](http://i68.tinypic.com/2pz0kyp.png)
+![Flowchart](http://i63.tinypic.com/x4m99s.png)
 
 The flowchart above shows the process I plan to use to make images fade to black. In my program an image will fade to black before transitioning  to the next image. 
 
