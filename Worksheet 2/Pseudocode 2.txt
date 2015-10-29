@@ -1,0 +1,30 @@
+START
+LOAD image1
+LOAD image2
+SHOW image1
+
+RUN fadeToBlack function on image1
+
+FOR each pixel in image1
+  SELECT pixel in image1
+  GET X value
+  GET Y value
+  SELECT pixel (X,Y) in image2
+  
+  newRed = GET red value
+  newBlue = GET blue value
+  newGreen = GET green value
+  
+  newRed = newRed * 0.75
+  newBlue = newBlue * 0.75
+  newGreen = newGreen * 0.75
+  
+  SELECT pixel in image1
+  SET red = newRed
+  SET blue = newBlue
+  SET green = newGreen
+
+END of loop
+
+END
+  
