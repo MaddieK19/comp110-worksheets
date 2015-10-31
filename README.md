@@ -29,7 +29,7 @@ I've got parts of the SpaceChem worksheet signed off but should try and get to t
 ##Week R
 I've spent the last two days focusing on my essay. The peer reviews helped a lot so changed some bits based on that I've found more scholarly sources I'm just struggling to find a way to include them the essay. The main problem with the essay at the moment is the word count. I'm over 1200 words so need to find a way to cut it down. I also need to organise myself better as well, as my time management isn't very good and I need enough time to finish the work for Monday. 
 
-I've been researching different ways to do parts of my tinkering graphics program. I've currently got a loop that fades the image to black but each loop is noticeable and not very smooth so I want to find another way to do it or maybe use Python with an image library instead of JES. 
+I've been researching different ways to do parts of my tinkering graphics program. I've currently got a loop that fades the image to black but each loop is noticeable and larger images take a long time to process each loop and not very smooth so I want to find another way to do it or maybe use Python with an image library instead of JES. 
 
 My program currently loads the images into an array and can show any of them, I've also got the code written that will make the image fade to black and transtion to the next my only issue is linking the the sepeate functiosn together to make the program work.
 
