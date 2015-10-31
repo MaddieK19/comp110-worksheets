@@ -4,7 +4,7 @@
 Hadn't started course.
 
 ##Week 2
-Started course on Wednesday had first COMP110 lesson, programming in Python which I know a bit of but need to refresh my memory. 
+I started course on Wednesday had first COMP110 lesson, programming in Python which I know a bit of but need to refresh my memory. 
 Had COMP 120 on Friday, again programming in Python and using the textbook, I need to read chapters of textbook to catch up and play around with Python to get what I've learned to stick in my head.
 I need to start doing some research for my essay I'm thinking of doing either the Nintendo 64 or the PlayStation. There seems to be more information about the N64 that's easier to find so I'll probably write the essay about that. I've downloaded SpaceChem and tried a few reactors. I'm finding it a bit difficult but hopefully I'll get my head around it soon.
 
