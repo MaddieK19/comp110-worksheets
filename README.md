@@ -31,7 +31,7 @@ I've spent the last two days focusing on my essay. The peer reviews helped a lot
 
 I've been researching different ways to do parts of my tinkering graphics program. I've currently got a loop that fades the image to black but each loop is noticeable and not very smooth so I want to find another way to do it or maybe use Python with an image library instead of JES. 
 
-My program currently loads the images into an array and can show any of them, I've also got the code written that will make the iamge fade to black and transtion to the next my only issue is linking the the sepeate functiosn together to make the program work.
+My program currently loads the images into an array and can show any of them, I've also got the code written that will make the image fade to black and transtion to the next my only issue is linking the the sepeate functiosn together to make the program work.
 
 ##Week 6
 	
