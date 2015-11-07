@@ -34,4 +34,8 @@ I've been researching different ways to do parts of my tinkering graphics progra
 My program currently loads the images into an array and can show any of them, I've also got the code written that will make the image fade to black and transtion to the next my only issue is linking the the sepeate functiosn together to make the program work.
 
 ##Week 6
+Handed my COMP130 essay in on Monday, my laptop doesn't handle teXworks very well so should look into that. My main problem with the essay was getting it sort enough in then end.  
+I've done a little work on my COMP120 program, but I've mainly been looking at Python image libraries so I can use that instead of JES to get my program running smoother. And I've started making Pong in Kivy and looking into possible references for my COMP110 essay. Also had the guest lecture from Ian Livingstone this week, that was really interesting. 
+
+##Week 7
 	
