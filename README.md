@@ -38,4 +38,4 @@ Handed my COMP130 essay in on Monday, my laptop doesn't handle teXworks very wel
 I've done a little work on my COMP120 program, but I've mainly been looking at Python image libraries so I can use that instead of JES to get my program running smoother. And I've started making Pong in Kivy and looking into possible references for my COMP110 essay. Also had the guest lecture from Ian Livingstone this week, that was really interesting. 
 
 ##Week 7
-	
+COMP110 was looking at more OOP stuff, I think I understood most of it but need to flick through the powerpoint again to make sure. I've found a few references for my COMP110 essay but I'm struggling to find 5. Maybe I'm not searching for them the right way. 	
