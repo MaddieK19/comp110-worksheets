@@ -38,4 +38,6 @@ Handed my COMP130 essay in on Monday, my laptop doesn't handle teXworks very wel
 I've done a little work on my COMP120 program, but I've mainly been looking at Python image libraries so I can use that instead of JES to get my program running smoother. And I've started making Pong in Kivy and looking into possible references for my COMP110 essay. Also had the guest lecture from Ian Livingstone this week, that was really interesting. 
 
 ##Week 7
-COMP110 was looking at more OOP stuff, I think I understood most of it but need to flick through the powerpoint again to make sure. I've found a few references for my COMP110 essay but I'm struggling to find 5. Maybe I'm not searching for them the right way. 	
+COMP110 was looking at more OOP stuff, I think I understood most of it but need to flick through the powerpoint again to make sure. I've found a few references for my COMP110 essay but I'm struggling to find 5. Maybe I'm not searching for them the right way. 
+
+I missed Wednesday's lecture becasue of car troubles, but did the work remotely. I just need to link all of my COMP120 program together now and maybe add a colour chaning effect. I would like to get it finished in the next 2 weeks.  I've found all my essay references now but I'm fairly sure two of them aren't relevant enough as they're about robotics than game engines but I couldn't find any others.
