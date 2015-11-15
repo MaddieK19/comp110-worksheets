@@ -41,3 +41,8 @@ I've done a little work on my COMP120 program, but I've mainly been looking at P
 COMP110 was looking at more OOP stuff, I think I understood most of it but need to flick through the powerpoint again to make sure. I've found a few references for my COMP110 essay but I'm struggling to find 5. Maybe I'm not searching for them the right way. 
 
 I missed Wednesday's lecture becasue of car troubles, but did the work remotely. I just need to link all of my COMP120 program together now and maybe add a colour chaning effect. I would like to get it finished in the next 2 weeks so I going to work on it for atleast half an hour a day. I've found all my essay references now but I'm fairly sure two of them aren't relevant enough as they're about robotics not game engines but I couldn't find much else.
+
+Friday was using Trello which seems really useful as my planning bits for my COMP120 program has been on random scraps of paper until now. I've also started planning my COMP130 Kivy app, my creativeity cards were apocalypse and truck and I thinking or using Frogger as my arcade game inspiration.  
+
+##Week 8
+
