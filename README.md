@@ -45,4 +45,7 @@ I missed Wednesday's lecture becasue of car troubles, but did the work remotely.
 Friday was using Trello which seems really useful as my planning bits for my COMP120 program has been on random scraps of paper until now. I've also started planning my COMP130 Kivy app, my creativeity cards were apocalypse and truck and I thinking or using Frogger as my arcade game inspiration.  
 
 ##Week 8
-
+COMP120 was using JES to play around with sound which was interesting, we've been set the tinkering audio assignment for this module as well so I need to start working on that, I'm going to try and stick to 2 algorithms a week to get the first bit done before the christmas break, I also need to look into sound libraries for Python.
+COMP110 was about reading academic papers which I was struggling with, I have a better idea of how to go around it now. 
+I had feedback on my COMP130 essay, I need to work on writing references properly, less typos and structuring my paragraphcs better in the next essay.
+I don't think there's much left to do in my tinkerung graphics project, I need to move the star field effect into the main file and I've had a look at altering colours with pygame and not sure whether to include that or not. I also need to look into using docstrings in it. I'm aiming to finish the code by the end of this week.
