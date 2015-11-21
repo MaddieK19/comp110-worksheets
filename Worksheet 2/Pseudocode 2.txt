@@ -25,6 +25,5 @@ FOR each pixel in image1
   SET green = newGreen
 
 END of loop
-
 END
   
