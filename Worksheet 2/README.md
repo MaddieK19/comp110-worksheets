@@ -11,6 +11,7 @@ The pseudocode details the same process as the flowchart, it shows the basic pro
 #2: Image Transition
 ###Flowchart
 ![Flowchart 2](http://i68.tinypic.com/339rb7b.png)
+This flowchart shows the process I've considered to make one image transition to the next. Two images will be stored as variables, one will be visible, the other won't be displayed but the colours in the pixels in the second image will be set on the pixels on the visible image.
 
 ###Pseudocode
 ![Pseudocode2 image](http://i67.tinypic.com/2znwy2e.png)
