@@ -1,6 +1,6 @@
 
 #COMP110: Worksheet 3
-
+![ERD](https://github.com/MaddieK19/comp110-worksheets/blob/master/Worksheet%203/ERD.png?raw=true)
 #####Player Table:
 
 player_id | player_name 
