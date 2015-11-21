@@ -11,14 +11,10 @@ FOR each pixel in image1
   GET Y value
   SELECT pixel (X,Y) in image2
   
-  newRed = GET red value
-  newBlue = GET blue value
-  newGreen = GET green value
-  
-  newRed = newRed * 0.75
-  newBlue = newBlue * 0.75
-  newGreen = newGreen * 0.75
-  
+  newRed = GET red value * 0.75
+  newBlue = GET blue value * 0.75
+  newGreen = GET green value * 0.75
+    
   SELECT pixel in image1
   SET red = newRed
   SET blue = newBlue
