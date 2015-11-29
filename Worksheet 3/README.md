@@ -26,7 +26,7 @@ score_id | player_id | level_id | score
 
 
 ##Entity-relationship Diagrams
-![ERD 2](https://github.com/MaddieK19/comp110-worksheets/blob/master/Worksheet%203/COMP110%20ERD%20-%20Standard.png?raw=true)
+![ERD 2](https://github.com/MaddieK19/comp110-worksheets/blob/master/Worksheet%203/COMP110%20ERD%20-%20Standard.png?raw=true)  
 One player can have many scores and have many scores for each level.
 
 ##Protocol for Client-Server Coding Task
