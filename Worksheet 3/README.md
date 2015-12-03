@@ -29,13 +29,17 @@ score_id | player_id | level_id | score
 ![ERD 2](https://github.com/MaddieK19/comp110-worksheets/blob/master/Worksheet%203/COMP110%20ERD%20-%20Standard.png?raw=true)  
 One player can have many scores and have many scores for each level.
 
-##Protocol for Client-Server Coding Task
+##Client-Server Communication Pseudocode 
 Client Side | Server Side
 --- | --- | --- |
-|
+REQUEST access to database | ALLOW access
+SEND username, level and score | RECEIVE  username, level and score
+ |IF the user doesn't exist add them to database
+  | IF user has a prexisting score for that level update it to the highest score
+ | SEND updated high score table
+DISPLAY highscore table | END connection
 
 
-##Pseduocode which models the client and the server to define a communication protocol
 
 
 
