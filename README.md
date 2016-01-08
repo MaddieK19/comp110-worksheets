@@ -58,7 +58,7 @@ I spend most of this week working on my essay and trying to finish it off, the e
 COMP120 was JES audio again, looking at envelopes and the tone parser algorithms for the tinkering audio assignment. 
 
 ##X1
-I started on my COMP130 project, I've added some more cards to my trello board. I'm using the Pong code as a base for my game and am going to build up from there. For Comp110 I've made the database on my server, I'm not 100% sure that I've linked tables correctly though. 
+I started on my COMP130 project, I've added some more cards to my trello board. I'm using the Pong code as a base for my game and am going to build up from there. For COMP110 I've made the database on my server, I'm not 100% sure that I've linked tables correctly though. 
 
 ##X2
 I've started adding a constellation drawing effect to tinkering graphics, it's adapted from the robot code on github I've changed it so that it will drawn a straight line, just need to find a good way to make it start drawing on the right angle. I've worked on tinkering audio a bit, I've made most of it in JES now so I think I'm going to keep it in JES instead of moving it into regular python. I just need to finish the tone parser and the envelope algorithms now.
