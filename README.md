@@ -39,7 +39,7 @@ I've done a little work on my COMP120 program, but I've mainly been looking at P
 ##Week 7
 COMP110 was looking at more OOP stuff, I think I understood most of it but need to flick through the powerpoint again to make sure. I've found a few references for my COMP110 essay but I'm struggling to find 5. Maybe I'm not searching for them the right way. 
 
-I missed Wednesday's lecture becasue of car troubles, but did the work remotely. I just need to link all of my COMP120 program together now and maybe add a colour changing effect. I would like to get it finished in the next 2 weeks so I going to work on it for at least half an hour a day. I've found all my essay references now but I'm fairly sure two of them aren't relevant enough as they're about robotics not game engines but I couldn't find much else.
+I missed Wednesday's lecture becasue of car troubles, but did the work remotely. I just need to link all of my tinkering graphics files together now and maybe add a colour changing effect. I would like to get it finished in the next 2 weeks so I'm going to work on it for at least half an hour a day. I've found all my essay references now but I'm fairly sure two of them aren't relevant enough as they're about robotics not game engines but I couldn't find much else.
 
 Friday was using Trello which seems really useful as my planning bits for my COMP120 program has been on random scraps of paper until now. I've also started planning my COMP130 Kivy app, my creativeity cards were apocalypse and truck and I thinking or using Frogger as my arcade game inspiration.  
 
@@ -57,17 +57,17 @@ I've started making some progress on my essay, I've read through all the papers 
 I spend most of this week working on my essay and trying to finish it off, the essay review helped but I'm not sure how many improvements I can make without going over the word count. I've moved some text into figures but I'm still close to the word count. 
 COMP120 was JES audio again, looking at envelopes and the tone parser algorithms for the tinkering audio assignment. 
 
-##x1
+##X1
 I started on my COMP130 project, I've added some more cards to my trello board. I'm using the Pong code as a base for my game and am going to build up from there. For Comp110 I've made the database on my server, I'm not 100% sure that I've linked tables correctly though. 
 
-##x2
-I've started adding a  constellation effect to tinkering graphics, it's adapted from the robot code on github I've changed it so that it will drawn a straight line on it own, just need to find a good way to make it start drawing on the right angle. I've worked on tinkering audio a bit, I've made most of it in JES now so I think I'm going to keep it in JES instead of moving it into regular python. I just need to finish the tone parser and the envelope algorithms now.
+##X2
+I've started adding a constellation drawing effect to tinkering graphics, it's adapted from the robot code on github I've changed it so that it will drawn a straight line, just need to find a good way to make it start drawing on the right angle. I've worked on tinkering audio a bit, I've made most of it in JES now so I think I'm going to keep it in JES instead of moving it into regular python. I just need to finish the tone parser and the envelope algorithms now.
 
-##x3
-Added a small bit to my constellation code for tinkering graphics. Did some work on my kivy app, experimenting  with the trucks and how the player controlled object moves. 
+##X3
+I've added a small bit to my constellation code for tinkering graphics. Did some work on my kivy app, experimenting  with the trucks and how the player controlled object moves. 
 
-##x4
+##X4
 I've got the constellation code working properly with turtle graphics but pygame has a built in drawing function that looks a lot simpler and will take less code so I'm going to look into that. I've changed the orientation of the kivy app and fixed the window size for now. 
 
 ##Week 11
-COMP120 was code reviweing, it was good to see other people code it gave me some ideas for my kivy app. I've been working mostly on the tinkering assignments this week but I've added lives and a timer to my kivy app and started working on a menu screen.
+COMP120 was code reviewing, it was good to see other people code it gave me some ideas for my kivy app. I've been working mostly on the tinkering assignments this week but I've added lives and a timer to my kivy app and started working on a menu screen.
