@@ -55,6 +55,8 @@ COMP120 was playing around with JES and audio again, I've got my first two algor
 I've started making some progress on my essay, I've read through all the papers and taken notes on them just trying to stick it together in the essay now.  I've been trying to use Kivy, I've been working through tutorials on it but still not really got my head around it. 
 
 ##Week 10
+I spend most of this week working on my essay and trying to finish it off, the essay review helped but I'm not sure how many improvements I can make without going over the word count. I've moved some text into figures but I'm still close to the word count. 
+COMP120 was JES audio again, looking at envelopes and the tone parser algorithms. 
 
 ##x1
 I started on my COMP130 project, I've added some more cards to my trello board. I'm using the Pong code as a base for my game and am going to build up from there. For Comp110 I've made the database on my server, I'm not 100% sure that I've linked tables correctly though. 
@@ -66,3 +68,7 @@ I've started a constellation effect to tinkering graphics, it's adapted from the
 Added a small bit to my constellation code for tinkering graphics. Did some work on my kivy app, playing around with the trucks and how the player controlled object moves. 
 
 ##x4
+Got the constellation code working properly with turtle graphics but pygame has a built in drawing function that looks a lot simpler and will take less code so I'm going to look into that. I've changed the orientation of the kivy app and fixed the window size for now. 
+
+##Week 11
+COMP120 was code reviweing, it was good to see other people code it gave me some ideas for my kivy app. I've been working mostly on the tinkering assignments this week but I've added lives and a timer to my kivy app and started working on a menu screen.
