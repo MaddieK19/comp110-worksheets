@@ -74,16 +74,3 @@ I've changed the orientation of the Kivy app and fixed the window size for now.
 ###Week 11
 COMP120 was code reviewing, it was good to see other people code it gave me some ideas for my Kivy app. I've been working mostly on the tinkering assignments this week but I've added lives and a timer to my Kivy app and started working on a menu screen.
 
-#Semester 2:
-###Week 16
-COMP140 was introducing the new modules for this semester and the controller design assignement. I'm interested in using an arduino for my controller but need to look into how difficult it would be. 
-COMP110 was support for worksheet 4 which helped me sort out the problem I was having, I was dividing two integers and getting an integer as a result I had to use static cast to convert the numbers into doubles. There was also a guest lecture on Computational Creativity which was really interesting.  
-Fridays lecture was on SDL which seems fairly straight forward so far and about the game pitch we need to do next week. My creativity cards were owl, magic and theme park.  
-
-I'm replayed the first planet in SpaceChem and managed to improve most of them and have read the first chapter of Think Like A Programmer and am working through the exercises at the end of the chapter.
-
-###Week 17
-COMP140 was on HCI which I think I mostly understood but I'm going to go through the powerpoint again. Also was playing BA games to choose one to base my controller around, I've played a few of them but I'm not sure which one to use yet. I've had a look at some arduino controller code and it doesn't look too complicated but I think it might be better to use the Makey Makey kit and focus on the creative side of the controller.   
-The programming practise sessions on Tuesday was about our game designs. It helped me settle on a game design and now I have a pretty good idea of what my game would be like.  
-COMP110 was about using github which was good as I had no idea how to use it as a group beyond all of us uploadign out code seperatly and coping and pasting it.  
-COMP150...
