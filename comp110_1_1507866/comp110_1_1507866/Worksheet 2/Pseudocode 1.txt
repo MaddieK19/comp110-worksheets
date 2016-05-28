@@ -1,0 +1,28 @@
+START
+
+SHOW image
+CREATE timer
+
+SET timer = 1
+
+
+IF timer is greater than 20
+  FOR each pixel in image
+    SELECT pixel
+    GET red green and blue values
+    newRed = MULTIPLY red value by 0.95
+    newGreen = MULTIPLY green value by 0.95
+    newBlue = MULTIPLY blue value by 0.95
+    SET red value = newRed
+    SET blue value = newBlue
+    SET green value = newGreen  
+  
+  ADD 1 to timer
+END IF
+
+ELSE
+  SET colour to black 
+END ELSE  
+REFRESH image
+
+END
